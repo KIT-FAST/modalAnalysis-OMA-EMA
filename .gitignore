@@ -1,0 +1,81 @@
+# IGNORE EVERYTHING
+*
+
+# Unterordner wieder durchsuchen
+!*/
+
+
+# Festlegen welche Dateien überwacht werden sollen
+!*.k
+!*.inp
+!*.bat
+!*.txt
+!*.mvw
+!*.tcl
+!*.m
+!*.mat
+!*.vim
+!*.hml
+!*.tcl
+!.gitignore
+!.gitattributes
+!*.py
+!d3hsp
+!d3plot
+!glstat
+!matsum
+!messag
+!nodfor
+!nodout
+!spcforc
+!*.odb
+!*.dat
+!*.pdf
+
+
+###################################################
+# Alles ab hier wurde automatisch von GIT erstellt.
+###################################################
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
