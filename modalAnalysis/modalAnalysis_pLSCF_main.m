@@ -36,7 +36,7 @@ clc, clf, clearvars
 %% 2. User input
 
 % Name of the file containing the measurement data/records
-fileNameRecords = 'EMA_records_tire.mat';
+fileNameRecords = './input/EMA_records_demo.mat';
 
 % OMA or EMA data?
 dataType = 'EMA';
@@ -49,14 +49,14 @@ isMultiSensorLayout = false;
 n_outputsRef = 2;
 
 % Setting of the minimum and maxium model order 
-modelOrder_min = 20; 
-modelOrder_max = 55;
+modelOrder_min = 5;
+modelOrder_max = 30;
 
 % Specify the examined frequency band. frequencyMax must be smaller than
 % fs/2.
 
 frequencyBand_min = 20;
-frequencyBand_max = 300;
+frequencyBand_max = 150;
 
 % Sampling frequency [Hz] of the sampeling records
 fs = 600;
