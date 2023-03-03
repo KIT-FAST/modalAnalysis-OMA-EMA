@@ -1,5 +1,19 @@
 # Modal Anaylsis with poly-reference least squares comples frequency method (p-LSCF)
 
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+Implementation of poly-reference least squares complex frequency method in Matlab.
+
+## Table of contents
+
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Background
+
 Operational Modal Analysis (OMA) identifies the modal parameters (natural frequency, damping ratio and eigenform) of a structure from experimentally determined measured data.
 The special feature of the OMA is that the excitation of the structure is not measured and is thus unknown.
 Given the structure excitation by white noise, the power spectral density of the measured system response contains the complete information on the modal parameters.
@@ -10,3 +24,12 @@ The eigenforms are determined in a second least-square step.
 This method can also identify closely spaced eigenmodes and provides clear, easily interpretable stabilization diagrams.
 
 The p-LSCF method implemented as a fully automated program in MATLAB in this repository was built in a Bachelor thesis and verified by several data sets.
+
+## Install
+
+## Usage
+
+## Contributing
+
+## License
+
