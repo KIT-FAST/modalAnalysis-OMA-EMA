@@ -31,5 +31,13 @@ The p-LSCF method implemented as a fully automated program in MATLAB in this rep
 
 ## Contributing
 
+If you have questions about the usage of this repository, then head over to the issues.
+First search if you questions has already been asked and answered (see also the closed issues!).
+If your questions has not been asked, just create a new issue.
+Please provide a detailed description, this makes it easier to answer your question.
+
+As this repository is not developed further from our site, there is no policy on how you can contribute improvements to this repository.
+If you want to improve this repository, just raise an issue and we can discuss how this can be done.
+
 ## License
 
