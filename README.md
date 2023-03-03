@@ -41,3 +41,4 @@ If you want to improve this repository, just raise an issue and we can discuss h
 
 ## License
 
+[GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
