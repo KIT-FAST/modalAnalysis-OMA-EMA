@@ -19,6 +19,8 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+## Reason and Possible fixes
+If you know or suspect the reason for this bug, paste the code lines and suggest modifications.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
