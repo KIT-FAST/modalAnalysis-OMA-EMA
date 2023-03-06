@@ -36,7 +36,7 @@ clc, clf, clearvars
 %% 2. User input
 
 % Name of the file containing the measurement data/records
-fileNameRecords = './input/EMA_records_demo.mat';
+fileNameRecords = 'EMA_records_demo.mat';
 
 % OMA or EMA data?
 dataType = 'EMA';
