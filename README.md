@@ -87,9 +87,12 @@ This repository was built in a Bachelor's thesis at KIT, Germany. The thesis is 
 
 ```bibtex 
 @thesis{Trumpp2017_1000156492,
-    author       = {Trumpp, Raphael},
+    author       = {Trumpp, Raphael Frederik},
     year         = {2017},
     title        = {Implementierung des poly-reference least square complex frequency (p-LSCF) Algorithmus zur Operational Modal Analysis},
+    doi          = {10.5445/IR/1000156492},
+    publisher    = {{Karlsruher Institut für Technologie (KIT)}},
+    pagetotal    = {103},
     type         = {Abschlussarbeit - Bachelor},
     school       = {Karlsruher Institut für Technologie (KIT)},
     language     = {german}
