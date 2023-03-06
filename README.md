@@ -9,6 +9,7 @@ Implementation of poly-reference least squares complex frequency method in Matla
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [Reference](#reference)
 - [Contributing](#contributing)
 - [License](#license)
 
