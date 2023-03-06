@@ -58,7 +58,7 @@ modelOrder_max = 30;
 frequencyBand_min = 20;
 frequencyBand_max = 150;
 
-% Sampling frequency [Hz] of the sampeling records
+% Sampling frequency [Hz] of the sampling records
 fs = 600;
 
 % Settings for the FFT of the cpsd (welch method) function
@@ -400,13 +400,13 @@ switch dataType
     
     case 'OMA'
     
-        disp('The following warning doesn´t affect the results much. Rank deficient can´t be avoided.')
+        disp('The following warning doesnÂ´t affect the results much. Rank deficient canÂ´t be avoided.')
 
         [complexModes_pLSCF, residue, capitalLambda] = ...
             OMA_pLSCF_modeShapes_calc(physicalStablePoles_pLSCF, PSDoFRF, frequencyBand);
 
     case 'EMA'
-        disp('The following warning doesn´t affect the results much. Rank deficient can´t be avoided.')
+        disp('The following warning doesnÂ´t affect the results much. Rank deficient canÂ´t be avoided.')
 
         [complexModes_pLSCF, residue, capitalLambda] = ...
             EMA_pLSCF_modeShapes_calc(physicalStablePoles_pLSCF, PSDoFRF, frequencyBand);
