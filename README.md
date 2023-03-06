@@ -80,6 +80,20 @@ For OMA with multiple measurements, the matrix `records` becomes 3-dimensional w
 
 ![oma_multiple_trim](https://user-images.githubusercontent.com/13416487/86216634-a236df80-bb7e-11ea-8536-2248995bd00e.png)
 
+## Reference
+
+This repository was built in a Bachelor's thesis at KIT, Germany. The thesis is written in German and can be downloaded [here](https://publikationen.bibliothek.kit.edu/1000156492).
+
+```bibtex 
+@thesis{Trumpp2017_1000156492,
+    author       = {Trumpp, Raphael},
+    year         = {2017},
+    title        = {Implementierung des poly-reference least square complex frequency (p-LSCF) Algorithmus zur Operational Modal Analysis},
+    type         = {Abschlussarbeit - Bachelor},
+    school       = {Karlsruher Institut für Technologie (KIT)},
+    language     = {german}
+}
+```
 
 ## Contributing
 
@@ -94,16 +108,3 @@ If you want to improve this repository, just raise an issue and we can discuss h
 ## License
 
 [GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
-
-## Reference
-This repository was built in a Bachelor's thesis at KIT, Germany. The thesis is written in German and can be downloaded [here](https://publikationen.bibliothek.kit.edu/1000156492)
-```git 
-@thesis{Trumpp2017_1000156492,
-    author       = {Trumpp, Raphael},
-    year         = {2017},
-    title        = {Implementierung des poly-reference least square complex frequency (p-LSCF) Algorithmus zur Operational Modal Analysis},
-    type         = {Abschlussarbeit - Bachelor},
-    school       = {Karlsruher Institut für Technologie (KIT)},
-    language     = {german}
-}
-```
