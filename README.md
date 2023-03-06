@@ -88,7 +88,7 @@ First search if you questions has already been asked and answered (see also the 
 If your questions has not been asked, just create a new issue.
 Please provide a detailed description, this makes it easier to answer your question.
 
-As this repository is not developed further from our site, there is no policy on how you can contribute improvements to this repository.
+As this repository is no longer further developed by us, there is no policy on how you can contribute improvements to this repository.
 If you want to improve this repository, just raise an issue and we can discuss how this can be done.
 
 ## License
