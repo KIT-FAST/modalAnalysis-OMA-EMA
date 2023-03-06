@@ -96,7 +96,7 @@ If you want to improve this repository, just raise an issue and we can discuss h
 [GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
 
 ## Reference
-This repository was built in a Bachelor's thesis at KIT, Germany and can be downloaded [here](https://publikationen.bibliothek.kit.edu/1000156492). The thesis is written in German.
+This repository was built in a Bachelor's thesis at KIT, Germany. The thesis is written in German and can be downloaded [here](https://publikationen.bibliothek.kit.edu/1000156492)
 ```git 
 @thesis{Trumpp2017_1000156492,
     author       = {Trumpp, Raphael},
