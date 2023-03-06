@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pLSCF
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Raphael
+    family-names: Trumpp
+identifiers:
+  - type: doi
+    value: 10.5445/IR/1000156492
+    description: The DOI of the thesis as PDF
+  - type: url
+    value: 'https://publikationen.bibliothek.kit.edu/1000156492'
+    description: The thesis with metadata published by KITopen
+repository-code: 'https://github.com/KIT-FAST/modalAnalysis-OMA-EMA'
+abstract: >-
+  Operational Modal Analysis (OMA) identifies the modal
+  parameters (natural frequency, damping ratio and
+  eigenform) of a structure from experimentally determined
+  measured data. The special feature of the OMA is that the
+  excitation of the structure is not measured and is thus
+  unknown. Given the structure excitation by white noise,
+  the power spectral density of the measured system response
+  contains the complete information on the modal parameters.
+  The poly-reference least squares complex frequency method
+  (p-LSCF) is the current industry standard of OMA methods
+  in the frequency domain. In a first least squares step,
+  the stabilization diagram is constructed based on the
+  parametric model to identify the stable poles of the
+  structure. The eigenforms are determined in a second
+  least-square step. This method can also identify closely
+  spaced eigenmodes and provides clear, easily interpretable
+  stabilization diagrams. Within the scope of this Bachelor
+  thesis, the p-LSCF method was implemented as a fully
+  automated program in MATLAB and verified by several data
+  sets.
+license: GPL-3.0
