@@ -23,7 +23,7 @@ In a first least squares step, the stabilization diagram is constructed based on
 The eigenforms are determined in a second least-square step.
 This method can also identify closely spaced eigenmodes and provides clear, easily interpretable stabilization diagrams.
 
-The p-LSCF method implemented as a fully automated program in MATLAB in this repository was built in a Bachelor's thesis at KIT, Germany (see [here](#reference) and verified by several data sets.
+The p-LSCF method implemented as a fully automated program in MATLAB in this repository was built in a Bachelor's thesis at KIT, Germany (see [here](#reference)) and verified by several data sets.
 
 ## Install
 
@@ -52,9 +52,7 @@ Just change this values before executing the script.
 
 The script is provided with some example data so that it is possible to run and test the script directly after downloading.
 If you want to use your own data, you can do as follows for OMA or EMA.
-The required format is described in more detail in the [pdf](https://github.com/KIT-FAST/modalAnalysis-OMA-EMA/blob/master/Implementierung%20des%20p-LSCF-Algorithmus%20zur%20Operational%20Modal%20Analysis.pdf) on page 46, unfortunately it is written in German.
-
-Further information can be found [here](#reference).
+Further information can be found [here](#reference); unfortunately, the thesis is written in German.
 
 
 ### Input data format for EMA
@@ -98,7 +96,7 @@ If you want to improve this repository, just raise an issue and we can discuss h
 [GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
 
 ## Reference
-This repository was built in following Bachelor's thesis at KIT, Germany:
+This repository was built in a Bachelor's thesis at KIT, Germany and can be downloaded [here](https://publikationen.bibliothek.kit.edu/1000156492). The thesis is written in German.
 ```git 
 @thesis{Trumpp2017_1000156492,
     author       = {Trumpp, Raphael},
