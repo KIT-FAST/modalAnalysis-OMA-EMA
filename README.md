@@ -37,6 +37,10 @@ The script has been tested with the following Matlab versions (other versions ar
 
 You can just clone this repository or download the code to your PC for installation.
 
+```bash
+git clone https://github.com/KIT-FAST/modalAnalysis-OMA-EMA.git
+```
+
 ## Usage
 
 The code is contained within the folder `modalAnalysis`.
