@@ -34,7 +34,7 @@ The following toolboxes are required:
 The script has been tested with the following Matlab versions (other versions are likely to work too):
 - R2020b
 - R2022a
-- R2002b
+- R2022b
 
 You can just clone this repository or download the code to your PC for installation.
 
