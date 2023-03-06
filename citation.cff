@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: pLSCF
+title: Modal Anaylsis with poly-reference Least Squares Comples Frequency method (p-LSCF)
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
