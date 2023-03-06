@@ -23,7 +23,7 @@ In a first least squares step, the stabilization diagram is constructed based on
 The eigenforms are determined in a second least-square step.
 This method can also identify closely spaced eigenmodes and provides clear, easily interpretable stabilization diagrams.
 
-The p-LSCF method implemented as a fully automated program in MATLAB in this repository was built in a Bachelor thesis and verified by several data sets.
+The p-LSCF method implemented as a fully automated program in MATLAB in this repository was built in a Bachelor's thesis at KIT, Germany (see [here](#reference) and verified by several data sets.
 
 ## Install
 
@@ -54,6 +54,8 @@ The script is provided with some example data so that it is possible to run and 
 If you want to use your own data, you can do as follows for OMA or EMA.
 The required format is described in more detail in the [pdf](https://github.com/KIT-FAST/modalAnalysis-OMA-EMA/blob/master/Implementierung%20des%20p-LSCF-Algorithmus%20zur%20Operational%20Modal%20Analysis.pdf) on page 46, unfortunately it is written in German.
 
+Further information can be found [here](#reference).
+
 
 ### Input data format for EMA
 
@@ -81,7 +83,6 @@ For OMA with multiple measurements, the matrix `records` becomes 3-dimensional w
 ![oma_multiple_trim](https://user-images.githubusercontent.com/13416487/86216634-a236df80-bb7e-11ea-8536-2248995bd00e.png)
 
 
-
 ## Contributing
 
 If you have questions about the usage of this repository, then head over to the issues.
@@ -95,3 +96,16 @@ If you want to improve this repository, just raise an issue and we can discuss h
 ## License
 
 [GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
+
+## Reference
+This repository was built in following Bachelor's thesis at KIT, Germany:
+```git 
+@thesis{Trumpp2017_1000156492,
+    author       = {Trumpp, Raphael},
+    year         = {2017},
+    title        = {Implementierung des poly-reference least square complex frequency (p-LSCF) Algorithmus zur Operational Modal Analysis},
+    type         = {Abschlussarbeit - Bachelor},
+    school       = {Karlsruher Institut für Technologie (KIT)},
+    language     = {german}
+}
+```
