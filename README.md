@@ -28,6 +28,12 @@ The p-LSCF method implemented as a fully automated program in MATLAB in this rep
 ## Install
 
 This project uses [Matlab](https://www.mathworks.com/products/matlab.html), so make sure you have installed it before using this software.
+The following toolboxes are required:
+- Signal Processing Toolbox
+
+The script has been tested with the following Matlab versions (other versions are likely to work too):
+- R2020b
+- R2022a
 
 You can just clone this repository or download the code to your PC for installation.
 
