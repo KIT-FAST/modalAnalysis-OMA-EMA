@@ -96,6 +96,8 @@ This repository was built in a Bachelor's thesis at KIT, Germany. The thesis is 
 }
 ```
 
+For information about how to cite this repository see the [citation.cff](citation.cff).
+
 ## Contributing
 
 If you have questions about the usage of this repository, then head over to the issues.
