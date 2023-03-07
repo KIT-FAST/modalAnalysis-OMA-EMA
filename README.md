@@ -1,4 +1,4 @@
-# Modal Anaylsis with poly-reference least squares comples frequency method (p-LSCF)
+# Modal Analysis with poly-reference least squares comples frequency method (p-LSCF)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
